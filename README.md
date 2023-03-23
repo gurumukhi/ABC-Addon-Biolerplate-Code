@@ -23,6 +23,7 @@ Use this as boilerplate code to develop any addon.
 
 # Misc
 
+- Join https://community.mozilla.org/en/groups/mozilla-community-rajasthan/
 - Social media hashtag: #MozillaLNMIIT
 - Try Firefox Relay: https://mzl.la/3WRIQ92?r=qr
 - Register for Developer newsletter: https://mzl.la/3IayxIt?r=qr
